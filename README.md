@@ -1,4 +1,4 @@
 # HelloWorld
 FirstRepo
-# yo 
-hello this is senturk
+# yo whats up 
+hello this is senturk20 
