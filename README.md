@@ -1,4 +1,1 @@
-# This is my first repo 
-# yo what's up 
-hello this is senturk20 
-if you could follow me I would be very glad 
+You can find the course material in the HelloWorld file that Ahmet Hoca created during the lesson.
